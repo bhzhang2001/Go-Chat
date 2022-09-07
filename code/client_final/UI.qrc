@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/file.png</file>
+        <file>img/photo.png</file>
+        <file>img/send.png</file>
+        <file>img/snoopy4.jpg</file>
+        <file>img/snoopy3.jpg</file>
+        <file>img/snoopy2.jpg</file>
+        <file>img/snoopy.jpeg</file>
+        <file>img/snoopy7.png</file>
+        <file>img/snoopy10.jpeg</file>
+        <file>img/snoopy13.jpg</file>
+        <file>img/snoopy14.jpeg</file>
+        <file>img/snoopy11.jpeg</file>
+    </qresource>
+</RCC>
